@@ -1,6 +1,6 @@
 {
-  "name": "aframe-react-boilerplate",
-  "version": "3.0.1",
+  "name": "lynden-vr-test",
+  "version": "0.1.0",
   "description": "Boilerplate for building virtual reality experiences with A-Frame and React.",
   "dependencies": {
     "aframe": "^0.5.0",
@@ -19,10 +19,6 @@
     "eject": "react-scripts eject",
     "publish": "npm run build && gh-pages -d build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ngokevin/aframe-react-boilerplate.git"
-  },
   "keywords": [
     "aframe",
     "react",
@@ -34,13 +30,6 @@
     "aframe-react",
     "webvr"
   ],
-  "author": "Kevin Ngo <kngo@mozilla.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ngokevin/aframe-react-boilerplate/issues"
-  },
-  "homepage": "https://github.com/ngokevin/aframe-react-boilerplate#readme",
-  "devDependencies": {
-    "gh-pages": "^0.12.0"
-  }
+  "author": "Lynden Solutions",
+  "license": "MIT"
 }
