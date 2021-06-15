@@ -1,6 +1,6 @@
-## aframe-react-boilerplate
+## lynden-vr-test
 
-Boilerplate for building virtual reality experiences with
+Leverages a boilerplate for building virtual reality experiences with
 [A-Frame](https://aframe.io) and React with
 [aframe-react](https://github.com/ngokevin/aframe-react).
 
@@ -13,10 +13,4 @@ To get started:
 ```bash
 npm install
 npm start
-```
-
-To publish to GitHub Pages:
-
-```bash
-npm run publish
 ```
